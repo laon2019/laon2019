@@ -1,6 +1,7 @@
 <div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Laon2019's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=250)
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Laon2019's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 ### 🛠️ Tech Stack
 <table align="center">
@@ -27,6 +28,21 @@
   </tr>
 </table>
 
+### 🛠️ Tools
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white" alt="EC2"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white" alt="S3"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VSCode"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse"></td>
+    <td align="center"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" alt="IntelliJ IDEA"></td>
+  </tr>
+</table>
+
 ### 📊 GitHub Stats
 ![Laon2019's GitHub stats](https://github-readme-stats.vercel.app/api?username=laon2019&show_icons=true&theme=radical)
 
@@ -36,4 +52,6 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://laon2019.github.io/MY_PORTFOLIO/)
 [![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)](https://lemon-jitterbug-d06.notion.site/b715768f54bd4a189d0487a2d78ba77f?v=b51ad5a403584bd1974fba9540fe0289&pvs=4)
 
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=120)
 </div>
+
