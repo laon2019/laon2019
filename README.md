@@ -45,6 +45,10 @@
 
 ### 📊 GitHub Stats
 
+![Laon2019's GitHub stats](https://github-readme-stats.vercel.app/api?username=laon2019&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laon2019&layout=compact&theme=radical)
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/laon2019"
@@ -52,10 +56,6 @@
   height="300"
 />
 </a>
-
-![Laon2019's GitHub stats](https://github-readme-stats.vercel.app/api?username=laon2019&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laon2019&layout=compact&theme=radical)
 
 ### 🔗 Connect with Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://laon2019.github.io/MY_PORTFOLIO/)
