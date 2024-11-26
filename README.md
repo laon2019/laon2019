@@ -58,7 +58,6 @@
 </a>
 
 ### 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://laon2019.github.io/MY_PORTFOLIO/)
 [![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)](https://lemon-jitterbug-d06.notion.site/b715768f54bd4a189d0487a2d78ba77f?v=b51ad5a403584bd1974fba9540fe0289&pvs=4)
 [![Velog](https://img.shields.io/badge/-Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@laon2019/posts)
 
