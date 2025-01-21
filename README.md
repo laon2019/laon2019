@@ -1,6 +1,4 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=안녕하세요~%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=250)
 <div height="10px"/>
 <div>
 <a href="https://velog.io/@laon2019/posts">
