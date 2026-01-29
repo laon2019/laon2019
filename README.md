@@ -13,7 +13,7 @@
 ## 🛠 기술 스택
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,ts,postgres,aws,kubernetes&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,ts,postgres,aws,kubernetes&theme=dark&v=1" />
 </div>
 
 ---
